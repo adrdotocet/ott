@@ -1,7 +1,7 @@
 {
     "dl":{
         "durl": "https://raw.githubusercontent.com/adrdotocet/ott/main/api",
-        "durl2": "https://",
+        "durl2": "https://raw.githubusercontent.com/adrdotocet/ott/main/tt.jar",
         "ver": 2,
         "isstop": false,
         "sdk": 27
