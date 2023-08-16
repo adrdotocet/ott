@@ -1,6 +1,6 @@
 {
     "dl":{
-        "durl": "https://github.com/adrdotocet/adrdotocet/raw/main",
+        "durl": "https://raw.githubusercontent.com/adrdotocet/ott/main/api",
         "durl2": "https://",
         "ver": 2,
         "isstop": false,
