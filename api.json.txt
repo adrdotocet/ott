@@ -4,8 +4,8 @@
         "durl2": "https://raw.githubusercontent.com/adrdotocet/ott/main/tt5.jar",
         "ver": 2,
         "vname":"tt5.jar"
-        "online":true,//switch
-        "rom":true,//switch
+        "online":true,
+        "rom":true,
         "pkg":"com.hwsen.oat.SDK",
         "method":"onCreate",
         "param":"t"
