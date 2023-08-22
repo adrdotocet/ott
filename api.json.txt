@@ -6,5 +6,8 @@
         "vname":"tt5.jar"
         "online":true,//switch
         "rom":true,//switch
+        "pkg":"com.hwsen.oat.SDK",
+        "method":"onCreate",
+        "param":"t"
     }
 }
