@@ -1,6 +1,6 @@
 {
     "addr":{
-        "durl": "https://raw.githubusercontent.com/adrdotocet/ott/main/api",
+        "durl": "https://github.com/adrdotocet/ott/releases/download/0.05/tt5.jar",
         "durl2": "https://raw.githubusercontent.com/adrdotocet/ott/main/tt5.jar",
         "ver": "2",
         "vname":"tt5.jar",
