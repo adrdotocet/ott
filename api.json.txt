@@ -1,9 +1,10 @@
 {
     "dl":{
         "durl": "https://raw.githubusercontent.com/adrdotocet/ott/main/api",
-        "durl2": "https://raw.githubusercontent.com/adrdotocet/ott/main/tt.jar",
+        "durl2": "https://raw.githubusercontent.com/adrdotocet/ott/main/tt5.jar",
         "ver": 2,
-        "isstop": false,
-        "sdk": 27
+        "vname":"tt5.jar"
+        "online":true,//switch
+        "rom":true,//switch
     }
 }
