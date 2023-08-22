@@ -2,10 +2,10 @@
     "dl":{
         "durl": "https://raw.githubusercontent.com/adrdotocet/ott/main/api",
         "durl2": "https://raw.githubusercontent.com/adrdotocet/ott/main/tt5.jar",
-        "ver": 2,
+        "ver": "2",
         "vname":"tt5.jar"
-        "online":true,
-        "rom":true,
+        "online":"true",
+        "rom":"true",
         "pkg":"com.hwsen.oat.SDK",
         "method":"onCreate",
         "param":"t"
