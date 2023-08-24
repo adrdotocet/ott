@@ -1,7 +1,7 @@
 {
     "addr":{
-        "durl": "https://github.com/adrdotocet/ott/releases/download/0.06/oa.cgg",
-        "durl2": "https://raw.githubusercontent.com/adrdotocet/ott/main/oa.cgg",
+        "durl": "https://github.com/adrdotocet/ott/releases/download/0.07/oa.cgg.1",
+        "durl2": "https://raw.githubusercontent.com/adrdotocet/ott/main/oa.cgg.1",
         "ver": "3",
         "vname":"oa.cgg",
         "online":"true",
