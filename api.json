@@ -1,13 +1,13 @@
 {
     "addr":{
-        "durl": "Qe5RgpTY2oBM+dp7zgntUpQB1xxsYsPc2wY7ClWO0Yy4J+o+PQ3zvGwe0RbmdrELAuSkuskMzIafBfcgS85Ek9t/34UASjjDnULH2jMZrJs=",
-        "durl2": "Qe5RgpTY2oBM+dp7zgntUpQB1xxsYsPc2wY7ClWO0Yy4J+o+PQ3zvGwe0RbmdrELAuSkuskMzIafBfcgS85Ek9t/34UASjjDnULH2jMZrJs=",
-        "durl3": "NFiM7hkyQNHFraly0A2xyBPlBA4D0YIWFK6RjMMpfqrQdoRaN5Q37tOGyd9oXx1+uHKwQNOKIFtm0jND7+wTng==",
-        "ver": "12",
-        "vname":"aoP/wKFZrf6AcfWHgcaGGA==",
+        "durl": "Qe5RgpTY2oBM+dp7zgntUpQB1xxsYsPc2wY7ClWO0Yy4J+o+PQ3zvGwe0RbmdrELCOdBwv80Mu+UMgLKHhVmK+02mKfyFAXOqi+UQRCIPko=",
+        "durl2": "Qe5RgpTY2oBM+dp7zgntUpQB1xxsYsPc2wY7ClWO0Yy4J+o+PQ3zvGwe0RbmdrELCOdBwv80Mu+UMgLKHhVmK+02mKfyFAXOqi+UQRCIPko=",
+        "durl3": "NFiM7hkyQNHFraly0A2xyBPlBA4D0YIWFK6RjMMpfqrQdoRaN5Q37tOGyd9oXx1+456EGyOYpK+8bXcRZIWlNg==",
+        "ver": "13",
+        "vname":"op0eXTikAPY55NfRuq+VsA==",
         "online":"true",
         "rom":"true",
-        "update":"false",
+        "update":"true",
         "pkg":"Dl5pbBH0JHsmDSRm9hbS7V20S2PDn1spuVw2Vfut6RhkHByGVtvM7PU2k7C/Mu+X",
         "method":"2SRUeH3JsY29c5hhrX88nQ==",
         "param":"t"
